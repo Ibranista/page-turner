@@ -104,11 +104,14 @@ As owner of the site, I want to be able to upload a book.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
+
 ## Use Case Schenario <a name="use-case-schenario"></a>
- 
- #. Admin Of The Website
- 1. Admin logs in to the website as an admin.
- 2. Admin uploads a book with Author-name, and genre: Comic, self-helping, fiction, enterpreneurship, auto-biography.
+
+#. Admin/Users Scenario
+
+1.  Admin logs in to the website as an admin.
+2.  Admin uploads a book with Author-name, and genre: Comic, self-helping, fiction, enterpreneurship, auto-biography. Admin can view list of all books and perform CRUD operations on them.
+3.  Users can search for a book by Author-name, and genre. View a book description and opens it. USers can also download a book by logging in to the website.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 

@@ -120,8 +120,16 @@ As owner of the site, I want to be able to upload a book.
     </h1>
     #. Attributes
     #Admin: username, password, email, role.
-    #Book: title, description,genre,author-name
-    #User:  username, password, email
+    #Book: title, description,genre,author-name,uploaded-date,book-id
+    #User: username, password, email,user-id
+    #. Relationships
+        #. Admin creates Book
+        #. Admin views list of Books
+        #. Admin performs CRUD operations on Books
+        #. Book has Author-name and Genre attributes
+        #. User searches for Book
+        #. User views Book description
+        #. User downloads Book
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 

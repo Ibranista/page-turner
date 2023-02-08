@@ -27,6 +27,7 @@ As owner of the site, I want to be able to upload a book.
 - [📖 About the Project](#about-project)
 - [🛠Project-requirements](#project-requirements)
 - [Use Case Diagram](#use-case-diagram)
+- [Class Diagram] (#class-diagram)
 - [ERD](#erd)
 - [Database Schema](#database-schema)
 - [API Documentation](#api-documentation)
@@ -130,6 +131,10 @@ As owner of the site, I want to be able to upload a book.
         #. User searches for Book
         #. User views Book description
         #. User downloads Book
+
+## Class Diagram <a name="class-diagram"></a>
+
+<img src="./public/class-diagram.jpg"/>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 

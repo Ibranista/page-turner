@@ -69,6 +69,9 @@ As owner of the site, I want to be able to upload a book.
 > As owner of the site, I want to be able to count number of downloads.<br/>
 > As owner of the site, I want to be able to upload a book.<br/>
 
+## Use Case Diagram <a name="use-case-diagram"></a>
+
+<img src="./public/use-case.jpg"/>
 ## 🛠 Built With <a name="built-with">HTML, CSS and javascript</a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -101,6 +104,11 @@ As owner of the site, I want to be able to upload a book.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
+## Use Case Schenario <a name="use-case-schenario"></a>
+ 
+ #. Admin Of The Website
+ 1. Admin logs in to the website as an admin.
+ 2. Admin uploads a book with Author-name, and genre: Comic, self-helping, fiction, enterpreneurship, auto-biography.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 

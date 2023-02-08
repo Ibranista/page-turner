@@ -28,7 +28,6 @@ As owner of the site, I want to be able to upload a book.
 - [🛠Project-requirements](#project-requirements)
 - [Use Case Diagram](#use-case-diagram)
 - [Class Diagram] (#class-diagram)
-- [ERD](#erd)
 - [Database Schema](#database-schema)
 - [API Documentation](#api-documentation)
 - [Frontend Documentation](#frontend-documentation)

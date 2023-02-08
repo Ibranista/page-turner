@@ -105,13 +105,23 @@ As owner of the site, I want to be able to upload a book.
 
 <!-- LIVE DEMO -->
 
-## Use Case Schenario <a name="use-case-schenario"></a>
+## Use Case Senario <a name="use-case-schenario"></a>
 
 #. Admin/Users Scenario
 
 1.  Admin logs in to the website as an admin.
 2.  Admin uploads a book with Author-name, and genre: Comic, self-helping, fiction, enterpreneurship, auto-biography. Admin can view list of all books and perform CRUD operations on them.
 3.  Users can search for a book by Author-name, and genre. View a book description and opens it. USers can also download a book by logging in to the website.
+    <u>
+    #.Classifiers
+    </U>
+    <h1>
+    Admin,Book,Genre,Users
+    </h1>
+    #. Attributes
+    #Admin: username, password, email, role.
+    #Book: title, description,genre,author-name
+    #User:  username, password, email
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 

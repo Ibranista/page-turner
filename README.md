@@ -130,6 +130,7 @@ As owner of the site, I want to be able to upload a book.
         #. User searches for Book
         #. User views Book description
         #. User downloads Book
+        #. User can comment about the book
 
 ## Class Diagram <a name="class-diagram"></a>
 
